@@ -1,4 +1,4 @@
-# User Behaviour Prediction - Loan Defaulters - Credit risk
+# Identifying Loan Defaulters - Credit risk
 
 #### Sector - Finance 
 
